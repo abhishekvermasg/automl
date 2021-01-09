@@ -1,3 +1,1 @@
-# Brain AutoML
-
-This repository contains a list of AutoML related models and libraries.
+# Efficient Detectors CVPR 2020
